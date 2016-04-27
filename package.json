@@ -4,7 +4,8 @@
   "description": "MEANTS FrameWork public project with angularjs included",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "install": "tsd install"
   },
   "repository": {
     "type": "git",
@@ -32,5 +33,10 @@
   "homepage": "https://github.com/vecbralis/meants-public#readme",
   "dependencies": {
     "meants": "0.0.3"
+  },
+   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.0",
+    "gulp-watch": "^4.3.5"
   }
 }

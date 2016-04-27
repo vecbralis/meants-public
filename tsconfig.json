@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5"
+  },
+  "files": [
+    "typings/tsd.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "typings/tsd",
+    "interface"
+    "typings/tsd.d.ts"
+  ]
+}
