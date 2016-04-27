@@ -1,6 +1,6 @@
 {
   "name": "meants-public",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MEANTS FrameWork public project with angularjs included",
   "main": "app.js",
   "scripts": {
