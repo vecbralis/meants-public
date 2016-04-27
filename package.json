@@ -1,0 +1,36 @@
+{
+  "name": "meants-public",
+  "version": "1.0.0",
+  "description": "MEANTS FrameWork public project with angularjs included",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vecbralis/meants-public.git"
+  },
+  "keywords": [
+    "MEANTS",
+    "Mean",
+    "stack",
+    "typescript",
+    "angularjs",
+    "angular2",
+    "angular",
+    "mongoose",
+    "mongoDB",
+    "express",
+    "passport",
+    "JWT"
+  ],
+  "author": "Martins Vecbralis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vecbralis/meants-public/issues"
+  },
+  "homepage": "https://github.com/vecbralis/meants-public#readme",
+  "dependencies": {
+    "meants": "0.0.3"
+  }
+}
